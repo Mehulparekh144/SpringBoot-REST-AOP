@@ -5,7 +5,8 @@ It is like a proxy but gives more abilities
 For e.g. we use an external API and call its methods. But we want to perform certain actions before or after calling method. Since its a JAR, the methods cannot be injected. So here we use AOP concepts.
 Before calling the library. I can say call this method `M()`  . We can also provide conditions here. These all things happen on **Runtime.**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/93ae8488-116f-4b24-9077-913fbb24c257/ebf97f94-f4ee-43ef-8650-aca3945ca944/Untitled.png)
+![image](https://github.com/Mehulparekh144/SpringBoot-REST-AOP/assets/72097117/e5d95ac5-fcd8-4749-8f22-8b82a90f5743)
+
 
 ## Concepts
 
